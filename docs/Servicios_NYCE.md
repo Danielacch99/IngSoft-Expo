@@ -49,7 +49,7 @@ Los sectores que abarca NYCE son los siguientes:
         * INSPECCIÓN EQUIPO DE TELECOMUNICACIONES
         * NOM-024-SSA3-2012
 
-#### Serivicios de certificación:
+# Serivicios de certificación:
 <br>
 
 El beneficio de contar con un producto certificado, en primera instancia, es la reducción de los riesgos que pudiera presentar a la seguridad de los usuarios, durante su comercialización y/o importación. Certificar un sistema te ayudará a determinar cuales son los puntos clave dentro de tu organización que deben ser mejorados, poniendo cada proceso bajo la lupa para lograr la mejora continua.
@@ -83,7 +83,7 @@ El beneficio de contar con un producto certificado, en primera instancia, es la 
     * Auditores, Evaluadores e Implementadores
     * Talento en TI
 
-#### Servicios de capacitación: 
+# Servicios de capacitación: 
 <br>
 
 Brindan soluciones de capacitación en temas que van desde la actualización e introducción a normas ISO, hasta la formación de auditores internos, auditores líderes e implementadores de los distintos estándares que evaluamos.

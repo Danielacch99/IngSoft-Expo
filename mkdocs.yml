@@ -1,5 +1,5 @@
-site_name: Actividades
-dev_addr: 127.0.0.1:8001
+site_name: Exposición
+dev_addr: 127.0.0.1:8003
 # site_url: 
 # repo_url: 
 # repo_name: <i class="fa fa-git"></i>
@@ -16,9 +16,10 @@ nav:
         - NYCE: NYCE.md
         - Servicios: Servicios_NYCE.md 
 
-    - NYCE y la Ingeniería de Software:
-        - NYCE y la Ingeniería de Software: NYCEyLaIngenieriadeSoftware.md
-
+    - NYCE y las TI:
+        - NYCE y las TI: NYCEyLasTI.md
+    - Normas de NYCE:
+        - ISO/IEC_29110-4-1:2018(PERFIL BÁSICO): ISOIEC_29110-4-1_2018_PerfilBasico.md
 copyright: ©GMDXX
 site_author: GMDXX
 
