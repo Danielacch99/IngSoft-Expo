@@ -27,6 +27,7 @@ La Norma ISO/IEC 29110 – Ingeniería de Software – Perfiles del Ciclo de Vid
 <br>
 
 # Características
+
 * Modelo Internacional basado en una combinación de estándares (ISO/IEC 12207, ISO/IEC 15289, ISO/IEC 15504, entre otras).
 * Es reconocido Internacionalmente.
 * Es específico para el desarrollo y mantenimiento de software.
@@ -36,6 +37,7 @@ La Norma ISO/IEC 29110 – Ingeniería de Software – Perfiles del Ciclo de Vid
 <br>
 
 # Beneficios
+
 * Mejora la calidad del software producido por la organización que adopta el modelo.
 * Los costos operativos disminuyen al sistematizar muchas tareas y estandarizar la cultura común de la organización.
 * Mayor posibilidad de abrir nuevos mercados para las empresas exportadoras.
@@ -44,3 +46,32 @@ La Norma ISO/IEC 29110 – Ingeniería de Software – Perfiles del Ciclo de Vid
 * Las organizaciones que tienen implementado la Norma NMX-I-059-NYCE (MoProSoft) a Nivel 2 “Administrado” pueden migrar fácilmente a la Norma ISO/IEC 29110, al Perfil Básico.
 * Las organizaciones que lo implementan destacan sobre sus competidores, en beneficio de sus clientes.
 * Aparecen en la Lista Nacional de Empresas Certificadas, lo cual sirve como una referencia oficial para clientes, autoridades y competidores.
+
+# Cambios en ISO/IEC 29110-4-1:2021
+<br>
+
+La primera diferencia es que ahora no contempla el perfil básico, sino el de gestión organizacional.
+
+# Condiciones mínimas para el uso del Perfil Organizacional
+
+Para utilizar el Perfil Organizacional, se asume que las VSEs – Very Small Entities, ya cumplen las siguientes condiciones:
+
+* Hay un grupo de hasta 25 personas que se autodenomina VSE.
+* Hay o habrá al menos un proceso productivo implementado en la VSE.
+* Existe o habrá un proceso de gestión de proyectos implementado en la VSE
+<br>
+
+# Procesos del Perfil Organizacional
+
+* Gestión Organizacional (OM): Su propósito es asegurar que las empresas entreguen valor al cliente a través de la planificación, organización, monitoreo y control de las actividades organizacionales.
+* Gestión de Recursos (RM): Su propósito es obtener y proporcionar a la empresa los recursos
+* Gestión de Procesos (PSM): Su propósito es establecer y mejorar los procesos de la empresa.
+* Gestión de la Cartera de Proyectos (PPM): Su propósito es generar proyectos para la empresa, proporcionar contenido técnico para establecer el Acuerdo Formal del proyecto y supervisar su desempeño mientras se monitorea la satisfacción del cliente.
+<br>
+
+# Beneficios extras
+
+* Entregar al cliente los productos esperados y consistentes con los requisitos acordados.
+* Da soporte a los procesos de la ISO/IEC 29110-4-1 al Perfil Básico.
+* Realizar un proceso de administración disciplinado, que proporcione visibilidad y acciones correctivas sobre los problemas y desviaciones del proyecto.
+* Seguir un proceso sistemático de implementación de software, que satisfaga las necesidades del cliente y asegure la calidad de los productos.
