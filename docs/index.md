@@ -7,7 +7,12 @@
 </div>
 
 &nbsp;
-# Presentación
+# Integrantes del equipo 3.
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+| Nombre | Correo electrónico | 
+|--------|--------------------|
+| Aguilera Terrazas Francisco Javier | 316350536@pcpuma.acatlan.unam.mx |
+|                                    |                                  |
+|                                    |                                  |
+|                                    |                                  |
+|                                    |                                  |
