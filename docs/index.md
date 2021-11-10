@@ -13,6 +13,6 @@
 |--------|--------------------|
 | Aguilera Terrazas Francisco Javier | 316350536@pcpuma.acatlan.unam.mx |
 | Contreras Chávez Daniela           | 419088130@pcpuma.acatlan.unam.mx |
-|                                    |                                  |
+| Kramsky Iturbide Guillermo         | 316640675@pcpuma.acatlan.unam.mx |
 |                                    |                                  |
 |                                    |                                  |
