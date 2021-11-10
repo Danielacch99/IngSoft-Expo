@@ -23,11 +23,11 @@ nav:
 
     - Normas de NYCE:
         - ISO/IEC_29110-4-1:2018(PERFIL BÁSICO): ISOIEC_29110-4-1_2018_PerfilBasico.md
+        - NMX-I-15504-2-NYCE-2010: NMX-I-15504-2-NYCE-2010.md
+        - NMX-COE-001-SCFI-2018: NMX-COE-001-SCFI-2018.md
     - Modelos de procesos:
         - NMX-I-059/02-NYCE-2016 (MoProSoft): NMX-I-059_02-NYCE-2016_(MoProSoft).md
-        - NMX-I-15504-2-NYCE-2010: NMX-I-15504-2-NYCE-2010.md
-
-        - NMX-COE-001-SCFI-2018: NMX-COE-001-SCFI-2018.md
+        
 copyright: ©GMDXX
 site_author: GMDXX
 
