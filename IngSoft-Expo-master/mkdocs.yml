@@ -1,0 +1,33 @@
+site_name: Exposición
+dev_addr: 127.0.0.1:8003
+# site_url: 
+# repo_url: 
+# repo_name: <i class="fa fa-git"></i>
+
+theme:
+    name: mkdocs
+    custom_dir: resources/
+extra_css:
+    - css/page.css
+nav:
+
+    - NYCE:
+        - NYCE: NYCE.md
+        - Servicios: Servicios_NYCE.md 
+
+    - Modelo paracurricular de NYCE:
+        - ¿Qué es un modelo paracurricular?: ModeloParacurricular.md
+
+    - NYCE y las TI:
+        - NYCE y las TI: NYCEyLasTI.md
+
+    - Normas de NYCE:
+        - ISO/IEC_29110-4-1:2018(PERFIL BÁSICO): ISOIEC_29110-4-1_2018_PerfilBasico.md
+        - NMX-I-15504-2-NYCE-2010: NMX-I-15504-2-NYCE-2010.md
+        - NMX-COE-001-SCFI-2018: NMX-COE-001-SCFI-2018.md
+    - Modelos de procesos:
+        - NMX-I-059/02-NYCE-2016 (MoProSoft): NMX-I-059_02-NYCE-2016_(MoProSoft).md
+        
+copyright: ©GMDXX
+site_author: GMDXX
+
