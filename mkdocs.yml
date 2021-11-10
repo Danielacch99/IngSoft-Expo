@@ -10,17 +10,22 @@ theme:
 extra_css:
     - css/page.css
 nav:
-    - Modelo paracurricular de NYCE:
-        - ¿Qué es un modelo paracurricular?: ModeloParacurricular.md
+
     - NYCE:
         - NYCE: NYCE.md
         - Servicios: Servicios_NYCE.md 
 
+    - Modelo paracurricular de NYCE:
+        - ¿Qué es un modelo paracurricular?: ModeloParacurricular.md
+
     - NYCE y las TI:
         - NYCE y las TI: NYCEyLasTI.md
+
     - Normas de NYCE:
         - ISO/IEC_29110-4-1:2018(PERFIL BÁSICO): ISOIEC_29110-4-1_2018_PerfilBasico.md
+    - Modelos de procesos:
         - NMX-I-059/02-NYCE-2016 (MoProSoft): NMX-I-059_02-NYCE-2016_(MoProSoft).md
+
 copyright: ©GMDXX
 site_author: GMDXX
 

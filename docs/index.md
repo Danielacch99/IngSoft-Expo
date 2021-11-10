@@ -7,7 +7,12 @@
 </div>
 
 &nbsp;
-# Integrantes del equipo 3.
+
+# Modelos paracurriculares de NYCE.
+<br>
+
+## Integrantes del equipo 3.
+<br>
 
 | Nombre | Correo electrónico | 
 |--------|--------------------|
