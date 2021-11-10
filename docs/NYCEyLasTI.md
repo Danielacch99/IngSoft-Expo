@@ -20,3 +20,4 @@ Desarrollar un modelo que permita alinear las capacidades de capital humano, a t
 * Las certificaciones en “Talento en T.I.” son muy accesibles y son una pequeña inversión, pero con grandes beneficios.
 * Es una certificación sobre tus competencias y capacidades que te facilita el acceso al mercado de trabajo o mejora tus posibilidades de obtener un ascenso en tu empleo actual.
 * El proceso de certificación se lleva a cabo 100% en línea, lo cual permite que puedas certificarte desde cualquier lugar en la república mexicana en los centros de evaluación acreditadas por NYCE. 
+
