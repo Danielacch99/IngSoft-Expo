@@ -83,6 +83,31 @@ El beneficio de contar con un producto certificado, en primera instancia, es la 
     * Auditores, Evaluadores e Implementadores
     * Talento en TI
 
+* Certificación de Producto de Software:
+    *  Proceso por el cual brindan constancia de que un producto de software cumple con las especificaciones establecidas en la Norma Mexicana NMX-I-9126-2-NYCE-2011.
+    * Asegura que se hayan hecho las pruebas de Funcionalidad mencionadas en la norma Mexicana.
+    *  Consta a través de un procedimiento de evaluación de la conformidad que cualquier aplicación, programa cibernético, sistema de cómputo, o simplemente un software aplicativo, cuenta con un nivel de calidad aceptable para su uso.
+    * Involucra características como:
+        * Adecuación: 
+            * La capacidad de un producto software para proporcionar un conjunto adecuado de funciones.
+        * Exactitud: 
+            * La capacidad de un producto de software para proporcionar los resultados.
+        * Interoperabilidad: 
+            * La capacidad un producto software para interactuar y comunicarse con uno o más productos de software.
+        * Seguridad de Acceso: 
+            * La capacidad de un producto software para proteger información y datos.
+        * Cumplimiento Funcional: 
+            * La capacidad de un producto software para adherirse a normas, convenciones o legislación.
+    
+    * Importancia de una Certificación de Software:
+        
+        * Diferenciación con los competidores, asegurando tiempos de entrega y reducción de fallos.
+        * Establecer acuerdos en el ámbito del servicio.
+        * Detectar los defectos en el producto software y proceder a su eliminación.
+        * Evaluar y controlar el rendimiento del producto software desarrollado.
+        * Asegurar que el producto software desarrollado respeta los niveles necesarios para las características de seguridad.
+        * Comprobar que el producto desarrollado podrá ser puesto en producción.
+
 # Servicios de capacitación: 
 <br>
 

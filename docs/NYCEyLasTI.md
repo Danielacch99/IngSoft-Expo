@@ -21,3 +21,26 @@ Desarrollar un modelo que permita alinear las capacidades de capital humano, a t
 * Es una certificación sobre tus competencias y capacidades que te facilita el acceso al mercado de trabajo o mejora tus posibilidades de obtener un ascenso en tu empleo actual.
 * El proceso de certificación se lleva a cabo 100% en línea, lo cual permite que puedas certificarte desde cualquier lugar en la república mexicana en los centros de evaluación acreditadas por NYCE. 
 
+* Beneficios de Certificación de Software:
+
+    * Empresas que desarrollan software:
+
+        * Controlar la calidad del producto desarrollado.
+        * Mejorar las características del producto.
+        * Asegurar mayor nivel de calidad.
+        * Comparar sus productos con la competencia.
+        * Posicionar su producto en el mercado.
+        * Aumentar las ventas del producto.
+
+    * Empresas que adquieren software:
+        
+        * Conocer la calidad del producto.
+        * Comparar entre distintas alternativas.
+        * Establecer acuerdos de nivel de servicio.
+        * Conseguir independencia del proveedor.
+        * Minimizar los fallos.
+        * Reducir los costos finales.
+         
+
+
+
