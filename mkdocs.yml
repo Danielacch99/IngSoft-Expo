@@ -27,7 +27,10 @@ nav:
         - NMX-COE-001-SCFI-2018: NMX-COE-001-SCFI-2018.md
     - Modelos de procesos:
         - NMX-I-059/02-NYCE-2016 (MoProSoft): NMX-I-059_02-NYCE-2016_(MoProSoft).md
-        
+    - Conclusiones:
+        - Conclusiones: Conclusiones.md    
+    - Referencias:
+        - Referencias: Referencias.md     
 copyright: ©GMDXX
 site_author: GMDXX
 
